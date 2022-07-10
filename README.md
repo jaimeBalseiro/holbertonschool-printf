@@ -1,7 +1,7 @@
-# **'Printf'**
+# **'printf'**
 
 
->Write your own 'Printf' function.
+>Write your own 'printf' function.
 
 
 ## Description
