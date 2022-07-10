@@ -14,6 +14,7 @@ printf blah blah here :)
 ## Format Specifiers
 
 ## Project Requirements
+-  Allowed editors: 'vi', 'vim', 'emacs'
 
 ### Prototype
 #include "main.h"
