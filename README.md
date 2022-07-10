@@ -21,7 +21,9 @@ printf blah blah here :)
 int _printf(const char *format, ...);
 ```
 ### Compilation
-
+```bash
+gcc -Wall -Werror -Wextra -pedantic *.c
+```
 ### Return Value
 
 ## Authors
