@@ -30,8 +30,8 @@ printf blah blah here :)
 
 ## Authorized functions and macros
 -  ```bash
-write (man 2 write)
-```
+   write (man 2 write)
+   ```
 
 ### Prototype
 #include "main.h"
