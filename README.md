@@ -17,9 +17,9 @@ printf blah blah here :)
 
 ### Prototype
 #include "main.h"
-'''bash
+```bash
 int _printf(const char *format, ...);
-'''
+```
 ### Compilation
 
 ### Return Value
