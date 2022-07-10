@@ -28,6 +28,10 @@ printf blah blah here :)
 -  All your header files should be included guarded
 -  Note that we will not provide the `_putchar` function for this project
 
+## Authorized functions and macros
+-  ```bash
+write (man 2 write)
+```
 
 ### Prototype
 #include "main.h"
