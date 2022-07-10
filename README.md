@@ -67,4 +67,5 @@ some examples from our code
 
 ## Authors
 [Jaime Diaz](https://github.com/jaimeBalseiro "Jaime Diaz")
+
 [Norman T. Padovani](https://github.com/ntpadovani "Norman T. Padovani")
