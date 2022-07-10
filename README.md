@@ -40,5 +40,8 @@ gcc -Wall -Werror -Wextra -pedantic *.c
 ```
 ### Return Value
 
+### Examples
+some examples from our code
+
 ## Authors
 our names, maybe put it like a link to our hubs :)
