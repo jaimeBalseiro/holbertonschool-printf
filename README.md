@@ -35,6 +35,21 @@ printf blah blah here :)
    ```bash
    malloc (man 3 malloc)
    ```
+   ```bash
+   free (man 3 free)
+   ```
+   ```bash
+   va_start (man 3 va_start)
+   ```
+   ```bash
+   va_end (man 3 va_end)
+   ```
+   ```bash
+   va_copy (man 3 va_copy)
+   ```
+   ```bash
+   va_arg (man 3 va_arg)
+   ```
 
 ### Prototype
 #include "main.h"
