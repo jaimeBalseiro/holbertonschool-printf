@@ -29,8 +29,11 @@ printf blah blah here :)
 -  Note that we will not provide the `_putchar` function for this project
 
 ## Authorized functions and macros
--  ```bash
+   ```bash
    write (man 2 write)
+   ```
+   ```bash
+   malloc (man 3 malloc)
    ```
 
 ### Prototype
