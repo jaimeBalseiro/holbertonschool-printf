@@ -66,4 +66,5 @@ gcc -Wall -Werror -Wextra -pedantic *.c
 some examples from our code
 
 ## Authors
-our names, maybe put it like a link to our hubs :)
+Jaime Diaz (https://github.com/jaimeBalseiro "Jaime Diaz")
+Norman T. Padovani https://github.com/ntpadovani "Norman T. Padovani")
