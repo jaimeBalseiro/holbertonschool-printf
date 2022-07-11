@@ -1,9 +1,9 @@
-# **`Project printf()`**
+# **`Project: printf()`**
 
-- In this project we were asked to Write our own `printf()` function.
+- In this project we were asked to create our own `printf()` function.
 
 ## **`Description`**
-- The functions printf() write output to stdout, the standard output stream.
+- The functions printf() writes output to stdout (the display), the standard output stream. The format of the output is defined using a percent (%) character followed by a format description character. A string of characters uses the %s conversion control character and a single character uses the  %c conversion control. They are also known as format specifiers.
 
 ## **`Getting Started`**
 
