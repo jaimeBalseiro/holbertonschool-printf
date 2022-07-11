@@ -67,6 +67,7 @@ gcc -Wall -Werror -Wextra -pedantic *.c
 some examples from our code
 
 ## Authors
+<img align="Top" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 [Jaime Diaz](https://github.com/jaimeBalseiro "Jaime Diaz")
 
 [Norman T. Padovani](https://github.com/ntpadovani "Norman T. Padovani")
