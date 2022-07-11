@@ -1,11 +1,11 @@
-# **`printf`**
+# **`Project printf()`**
 
 
 >Write your own `printf` function.
 
 
-## Description
-printf blah blah here :)
+## **`Description`**
+- The functions printf() write output to stdout, the standard output stream.
 
 ## Getting Started
 
