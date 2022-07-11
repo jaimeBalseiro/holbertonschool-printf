@@ -31,13 +31,13 @@ printf blah blah here :)
 
 ## Authorized functions and macros
    
-   # Funtions
+   ### Functions
   <ul>
   <li> write (man 2 write)</li>
   <li>malloc (man 3 malloc)</li>
   <li>free (man 3 free)</li>
   </ul>
-   # Macross
+   ### Macross
    <ul>
    <li> va_start (man 3 va_start)</li>
    <li>va_end (man 3 va_end)</li>
