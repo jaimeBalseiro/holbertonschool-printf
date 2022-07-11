@@ -54,11 +54,12 @@
 </ul>
 
 ### **`The printf() Return Value`**
-<img align="Center" alt="GIF" src="Printf return valuethin.png" width="500"/>
+<img align="Center" alt="GIF" src="Printf return valuethin.png" width="400"/>
 
 ### **`Some examples of how the function Works:`**
 
 ### **`Project Coders:`**
+<img align="Right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 
 #### [Jaime Diaz](https://github.com/jaimeBalseiro "Jaime Díaz") &copy; 2022
 [![Github](https://github.com/jaimeBalseiro/holbertonschool-printf/blob/master/follow.png)](https://github.com/jaimeBalseiro)
@@ -70,9 +71,6 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Norman T. Padovani LinkedIn Profile" height="30" width="30">
   </a>
 
-
-
-<img align="Center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=xiaoluoboding.xiaoluoboding)
   
