@@ -57,10 +57,10 @@
 
 ## **`Some examples of how the function Works:`**
 
-## **`Project Coders`**
-<img align="Top" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="200"/>
+## **`Project Coders:`** 
+#### [Jaime Diaz](https://github.com/jaimeBalseiro "Jaime Díaz")[, Norman T. Padovani, &copy; 2022](https://github.com/ntpadovani "Norman T. Padovani")
+<img align="Center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
 
-  - ## [-= Jaime Diaz =-](https://github.com/jaimeBalseiro "Jaime Díaz")
-  - ## [-= Norman T. Padovani =-](https://github.com/ntpadovani "Norman T. Padovani")
+  
 
 
