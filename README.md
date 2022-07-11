@@ -9,7 +9,7 @@ printf blah blah here :)
 
 ## Getting Started
 
-### Dependencies
+## Dependencies
 
 ## Format Specifiers
 
@@ -65,9 +65,8 @@ some examples from our code
 
 ## Authors
 <img align="Top" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="200"/>
-<ul>
-   <li>## [-= Jaime Diaz =-](https://github.com/jaimeBalseiro "Jaime Díaz")</li>
-   <li>## [-= Norman T. Padovani =-](https://github.com/ntpadovani "Norman T. Padovani")</li>
-</ul>
+
+   ## [-= Jaime Diaz =-](https://github.com/jaimeBalseiro "Jaime Díaz")
+   ## [-= Norman T. Padovani =-](https://github.com/ntpadovani "Norman T. Padovani")
 
 
