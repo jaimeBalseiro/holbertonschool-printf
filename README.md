@@ -55,7 +55,7 @@
 ## **`The printf() Return Value`**
 <img align="Center" alt="GIF" src="Printf return valuethin.png" width="500"/>
 
-## **`Some examples of how the Function Works:`**
+## **`Some examples of how the function Works:`**
 
 ## **`Project Coders`**
 <img align="Top" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="200"/>
