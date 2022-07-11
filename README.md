@@ -13,18 +13,18 @@
 
 ## **`Project Requirements`**
 
--  The allowed editors: `vi`, `vim`, `emacs`.
+-  The allowed editors were: `vi`, `vim`, `emacs`.
 -  All our files were compiled on `Ubuntu 20.04 LTS (Ubuntu 9.4.0-1ubuntu1~20.04.1) gcc 9.4.0`
    using the flags `-Wall` `-Werror` `-Wextra` `and -pedantic`.
 -  All our files end with a new line ("\n").
 -  This `README.md` file, at the root of the folder of the project was mandatory.
--  The project code conforms to the `Betty` style format. It was checked using [betty-style.pl](https://github.com/holbertonschool/Betty/blob/master/betty-style.pl "betty-style.pl") and [betty-doc.pl](https://github.com/holbertonschool/Betty/blob/master/betty-doc.pl "betty-doc.pl")
+-  The project code conforms to the `Hoberton School, Betty` style format. It was checked using [betty-style.pl](https://github.com/holbertonschool/Betty/blob/master/betty-style.pl "betty-style.pl") and [betty-doc.pl](https://github.com/holbertonschool/Betty/blob/master/betty-doc.pl "betty-doc.pl")
 -  Global variables were not allowed.
--  No more that 5 functions per file were allowed.
+-  No more than 5 functions per file were allowed.
 -  The prototypes of all our functions were included in the project's header file called `main.h`,
    the file was protected using the \#ifndef, #define, #endif method.
 
-## Authorized functions and macros
+## **`Authorized functions and macros`**
    
    ### Functions
   <ul>
@@ -41,24 +41,25 @@
    <li>va_arg (man 3 va_arg)</li>
    </ul>
    
-## Prototypes
+## **`Our Function Prototypes`**
 
 <ul>
    <li>int _printf(const char *format, ...);</li>
 </ul>
    
-## Compilation Code
+## **`Our Compilation Code`**
 <ul>
    <li>gcc -Wall -Werror -Wextra -pedantic *.c</li>
 </ul>
 
 
-## Return Value
-<img align="Center" alt="GIF" src="Printf return valuethin.png" width="600"/>
-### Examples
-some examples from our code
+## **`The printf() Return Value`**
+<img align="Center" alt="GIF" src="Printf return valuethin.png" width="500"/>
 
-## Authors
+## **`How the Function Works:Examples`**
+
+
+## **`Project Coders`**
 <img align="Top" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="200"/>
 
   - ## [-= Jaime Diaz =-](https://github.com/jaimeBalseiro "Jaime Díaz")
