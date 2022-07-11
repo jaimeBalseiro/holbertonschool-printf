@@ -62,7 +62,7 @@ int _printf(const char *format, ...);
 gcc -Wall -Werror -Wextra -pedantic *.c
 ```
 ### Return Value
-<img align="Center" alt="GIF" src="" width="600"/>
+<img align="Center" alt="GIF" src="Printf return valuethin.png" width="600"/>
 ### Examples
 some examples from our code
 
