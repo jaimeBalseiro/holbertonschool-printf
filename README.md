@@ -46,22 +46,28 @@ printf blah blah here :)
    <li>va_arg (man 3 va_arg)</li>
    </ul>
    
-### Prototypes
-#include "main.h"
-```bash
-int _printf(const char *format, ...);
-```
-### Compilation
-```bash
-gcc -Wall -Werror -Wextra -pedantic *.c
-```
-### Return Value
+## Prototypes
+
+<ul>
+   <li>int _printf(const char *format, ...);</li>
+</ul>
+   
+## Compilation Code
+<ul>
+   <li>gcc -Wall -Werror -Wextra -pedantic *.c</li>
+</ul>
+
+
+## Return Value
 <img align="Center" alt="GIF" src="Printf return valuethin.png" width="600"/>
 ### Examples
 some examples from our code
 
 ## Authors
 <img align="Top" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="200"/>
+<ul>
+   <li>## [-= Jaime Diaz =-](https://github.com/jaimeBalseiro "Jaime Díaz")</li>
+   <li>## [-= Norman T. Padovani =-](https://github.com/ntpadovani "Norman T. Padovani")</li>
+</ul>
 
-## [-= Jaime Diaz =-](https://github.com/jaimeBalseiro "Jaime Díaz")
-## [-= Norman T. Padovani =-](https://github.com/ntpadovani "Norman T. Padovani")
+
