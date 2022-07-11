@@ -16,7 +16,8 @@ printf blah blah here :)
 ## Project Requirements
 -  Allowed editors: `vi`, `vim`, `emacs`
 -  All your files will be compiled on Ubuntu 20.04 LTS
--  Your programs and functions will be compiled with `gcc 4.8.4` using the flags `-Wall` `-Werror` `-Wextra` `and -pedantic`
+-  Your programs and functions will be compiled with `(Ubuntu 9.4.0-1ubuntu1~20.04.1) gcc 9.4.0`
+   using the flags `-Wall` `-Werror` `-Wextra` `and -pedantic`
 -  All your files should end with a new line
 -  A `README.md` file, at the root of the folder of the project is mandatory
 -  Your code should use the `Betty` style. It will be checked using [betty-style.pl](https://github.com/holbertonschool/Betty/blob/master/betty-style.pl "betty-style.pl") and [betty-doc.pl](https://github.com/holbertonschool/Betty/blob/master/betty-doc.pl "betty-doc.pl")
