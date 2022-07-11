@@ -1,33 +1,28 @@
 # **`Project printf()`**
 
-
->Write your own `printf` function.
-
+- In this project we were asked to Write our own `printf()` function.
 
 ## **`Description`**
 - The functions printf() write output to stdout, the standard output stream.
 
-## Getting Started
+## **`Getting Started`**
 
-## Dependencies
+## **`Dependencies`**
 
-## Format Specifiers
+## **`Format Specifiers`**
 
-## Project Requirements
--  Allowed editors: `vi`, `vim`, `emacs`
--  All your files will be compiled on Ubuntu 20.04 LTS
--  Your programs and functions will be compiled with `(Ubuntu 9.4.0-1ubuntu1~20.04.1) gcc 9.4.0`
-   using the flags `-Wall` `-Werror` `-Wextra` `and -pedantic`
--  All your files should end with a new line
--  A `README.md` file, at the root of the folder of the project is mandatory
--  Your code should use the `Betty` style. It will be checked using [betty-style.pl](https://github.com/holbertonschool/Betty/blob/master/betty-style.pl "betty-style.pl") and [betty-doc.pl](https://github.com/holbertonschool/Betty/blob/master/betty-doc.pl "betty-doc.pl")
--  You are not allowed to use global variables
--  No more that 5 functions per file
--  In the following examples, the `main.c` files are shown as examples. You can use them to test your functions, but you don't have to push them to your repo (if you do we won't take them into account). We will use our own `main.c` files at compilation. Our `main.c` files might be different from the one shown in the examples
--  The prototypes of all your functions should be included in your header file `main.h`
--  Don't forget to push yur header file
--  All your header files should be included guarded
--  Note that we will not provide the `_putchar` function for this project
+## **`Project Requirements`**
+
+-  The allowed editors: `vi`, `vim`, `emacs`.
+-  All our files were compiled on `Ubuntu 20.04 LTS (Ubuntu 9.4.0-1ubuntu1~20.04.1) gcc 9.4.0`
+   using the flags `-Wall` `-Werror` `-Wextra` `and -pedantic`.
+-  All our files end with a new line ("\n").
+-  This `README.md` file, at the root of the folder of the project was mandatory.
+-  The project code conforms to the `Betty` style format. It was checked using [betty-style.pl](https://github.com/holbertonschool/Betty/blob/master/betty-style.pl "betty-style.pl") and [betty-doc.pl](https://github.com/holbertonschool/Betty/blob/master/betty-doc.pl "betty-doc.pl")
+-  Global variables were not allowed.
+-  No more that 5 functions per file were allowed.
+-  The prototypes of all our functions were included in the project's header file called `main.h`,
+   the file was protected using the \#ifndef, #define, #endif method.
 
 ## Authorized functions and macros
    
