@@ -30,6 +30,21 @@ printf blah blah here :)
 -  Note that we will not provide the `_putchar` function for this project
 
 ## Authorized functions and macros
+   # Funtions
+  <ul>
+  <li> write (man 2 write)</li>
+  <li>malloc (man 3 malloc)</li>
+  <li>free (man 3 free)</li>
+  </ul>
+   # Macross
+   <ul>
+   <li> va_start (man 3 va_start)</li>
+   <li>va_end (man 3 va_end)</li>
+   <li>va_copy (man 3 va_copy)</li>
+   <li>va_arg (man 3 va_arg)</li>
+   </ul>
+   
+   
    ```bash
    write (man 2 write)
    ```
