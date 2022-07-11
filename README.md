@@ -59,14 +59,17 @@
 ## **`Some examples of how the function Works:`**
 
 ## **`Project Coders:`** 
-#### [Jaime Diaz](https://github.com/jaimeBalseiro "Jaime Díaz")[, Norman T. Padovani, &copy; 2022](https://github.com/ntpadovani "Norman T. Padovani")
-[![Github](https://img.shields.io/github/followers/sarthakbh321?label=Follow&style=social)](https://github.com/jaimeBalseiro) | [![Github](https://img.shields.io/github/followers/sarthakbh321?label=Follow&style=social)](https://github.com/ntpadovani)
+#### [Jaime Diaz](https://github.com/jaimeBalseiro "Jaime Díaz")
+[![Github](https://github.com/jaimeBalseiro/holbertonschool-printf/blob/master/follow.png)](https://github.com/jaimeBalseiro)
+
+[, Norman T. Padovani, &copy; 2022](https://github.com/ntpadovani "Norman T. Padovani")
+[![Github](https://github.com/jaimeBalseiro/holbertonschool-printf/blob/master/follow.png)](https://github.com/ntpadovani)
 
 <a href="https://www.linkedin.com/in/norman-t-p-88979553">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Norman T. Padovani LinkedIn Profile" height="30" width="30">
   </a>
 
-<img align="Center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
+<img align="Center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=xiaoluoboding.xiaoluoboding)
   
