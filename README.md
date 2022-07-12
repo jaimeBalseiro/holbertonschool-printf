@@ -62,7 +62,9 @@
 <img align="Right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 
 #### [Jaime Diaz](https://github.com/jaimeBalseiro "Jaime Díaz") &copy; 2022
-[![Github](https://github.com/jaimeBalseiro/holbertonschool-printf/blob/master/follow.png)](https://github.com/jaimeBalseiro)
+[![Github](https://github.com/jaimeBalseiro/holbertonschool-printf/blob/master/follow.png)](https://github.com/jaimeBalseiro)<a href="https://www.linkedin.com/in/jaime-diaz-07bab323a">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Jaime Díaz LinkedIn Profile" height="30" width="30">
+  </a>
 
 
 
