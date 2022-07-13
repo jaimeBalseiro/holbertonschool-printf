@@ -20,7 +20,6 @@ void print_string(va_list ptr)
 			}
 			putchar(store[idx]);
 		}
-	
 }
 
 

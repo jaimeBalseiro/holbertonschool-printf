@@ -29,7 +29,10 @@ int _printf(const char *format, ...)
 	}
 	for (idx = 0; format[idx] != '\0'; idx++)
 	{
-		putchar(format[idx]);
+		if(format[idx] != '%')
+		{
+			putchar(format[idx]);
+		}
 		if (format[idx] == '%')
 		{
 			if(format[idx + 1] == '%')
@@ -41,6 +44,7 @@ int _printf(const char *format, ...)
 				if (format[idx + 1] == este[idx2].data)
 				{
 					este[idx2].f(ptr);
+					idx++;
 				}
 			}
 		}
