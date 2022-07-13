@@ -8,13 +8,19 @@
  */
 void print_string(va_list ptr)
 {
-        char *store;
+	char *store;
+	int idx;
 
-        store = va_arg(ptr, char *); 
-        {
-                printf("%s", (store == NULL) ? "(nil)" : store);
-                return NULL;
-        }
+	store = va_arg(ptr, char *);
+	for (idx = 0; store[idx] != '\0'; idx++)
+		{
+			if (store == NULL)
+			{
+				return;
+			}
+			putchar(store[idx]);
+		}
+	
 }
 
 
@@ -25,10 +31,10 @@ void print_string(va_list ptr)
  */
 void print_char(va_list ptr)
 {
-        char store;
+	char store;
 
-        store = va_arg(ptr, int);
-        printf("%c", store);
+	store = va_arg(ptr, int);
+	printf("%c", store);
 }
 
 
@@ -39,9 +45,8 @@ void print_char(va_list ptr)
  */
 void print_number(va_list ptr)
 {
-        int store;
+	double store;
 
-        store = va_arg(ptr, int);
-        printf("%f", store);
+	store = va_arg(ptr, int);
+	printf("%f", store);
 }
-
