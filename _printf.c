@@ -15,13 +15,12 @@ int _printf(const char *format, ...)
 	int idx, idx2, count = 0;
 	va_list ptr;
 
-	escoge_t este[] = {
+	static escoge_t este[] = {
 		{'c', print_char},
-		{'s', print_string}
-		/*
-		 *{'d', print_number},
-		 *{'i', print_number},
-		 */
+		{'i', print_string},
+		{'d', print_number},
+		{'i', print_number},
+		{'\0', NULL}
 	};
 
 	va_start(ptr, format);
@@ -46,7 +45,7 @@ int _printf(const char *format, ...)
 				idx++;
 				count++;
 			}
-			for (idx2 = 0; idx2 < 2; idx2++)
+			for (idx2 = 0; idx2 < 4; idx2++)
 			{
 				if (format[idx + 1] == este[idx2].data)
 				{

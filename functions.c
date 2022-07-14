@@ -41,14 +41,45 @@ void print_char(va_list ptr)
 
 
 /**
+ * print_int - A function that converts chars to ints.
+ * @n: Num to convert.
+ * Return: Number of chars converted.
+ */
+int print_int(int n)
+{
+        int idx = 0;
+	int num = 0;
+        
+	if (n < 0)
+	{
+		putchar('-');
+		idx++;
+		num = n * -1;
+	}
+	else
+	{
+		num = n;
+	}
+	if (num / 10)
+	{
+		idx += print_int(num / 10);
+	}
+	putchar((num % 10) + 48);
+	return (idx);
+}
+
+
+/**
  * print_number - Converts integer to signed decimal notation.
  * @ptr:  Contains the values.
  * Return: The number of characters printed.
  */
 void print_number(va_list ptr)
 {
-        double store;
+	int n;
+	n = va_arg(ptr, int);
 
-        store = va_arg(ptr, int);
-        printf("%f", store);
+	print_int(n);
 }
+
+

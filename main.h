@@ -29,5 +29,6 @@ typedef struct type
 int _printf(const char *format, ...);
 void print_char(va_list prt);
 void print_string(va_list ptr);
-/*void print_number(va_list ptr);*/
+void print_number(va_list ptr);
+int print_int(int n);
 #endif
