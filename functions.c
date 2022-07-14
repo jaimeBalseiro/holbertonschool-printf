@@ -49,7 +49,7 @@ int print_char(va_list ptr)
  */
 int print_int(int n)
 {
-        int idx = 0;
+        int idx = 1;
 	int num = 0;
         
 	if (n < 0)
