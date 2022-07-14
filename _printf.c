@@ -17,7 +17,7 @@ int _printf(const char *format, ...)
 
 	static escoge_t este[] = {
 		{'c', print_char},
-		{'i', print_string},
+		{'s', print_string},
 		{'d', print_number},
 		{'i', print_number},
 		{'\0', NULL}
