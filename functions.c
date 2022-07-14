@@ -5,20 +5,21 @@
  * @ptr:  Contains the values.
  * Return: The number of characters printed.
  */
-void print_string(va_list ptr)
+int print_string(va_list ptr)
 {
         char *store;
         int idx;
         store = va_arg(ptr, char *);
 
         for (idx = 0; store[idx] != '\0'; idx++)
-                {
-                        if (store[idx] == '\0')
-                        {
-                                return;
-                        }
-                        putchar(store[idx]);
+	{
+		if (store[idx] == '\0')
+		{
+			return('\0');
                 }
+		putchar(store[idx]);
+	}
+	return (idx);
 }
 
 
@@ -27,16 +28,17 @@ void print_string(va_list ptr)
  * @ptr:  Contains the values.
  * Return: The number of characters printed. 
  */
-void print_char(va_list ptr)
+int print_char(va_list ptr)
 {
 	char store;
 	store = va_arg(ptr, int);
 	
 	if (store == '\0')
 	{
-		return;
+		return ('\0');
 	}
-		putchar(store);
+	putchar(store);
+	return(1);
 }
 
 
@@ -74,12 +76,12 @@ int print_int(int n)
  * @ptr:  Contains the values.
  * Return: The number of characters printed.
  */
-void print_number(va_list ptr)
+int print_number(va_list ptr)
 {
-	int n;
+	int n, count;
 	n = va_arg(ptr, int);
-
-	print_int(n);
+	count = print_int(n);
+	return (count);
 }
 
 

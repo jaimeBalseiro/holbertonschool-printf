@@ -49,9 +49,8 @@ int _printf(const char *format, ...)
 			{
 				if (format[idx + 1] == este[idx2].data)
 				{
-					este[idx2].f(ptr);
+					count+=este[idx2].f(ptr);
 					idx++;
-					count++;
 				}
 			}
 		}

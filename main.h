@@ -20,15 +20,15 @@
 typedef struct type
 {
         char data;
-        void (*f)(va_list ptr);
+        int (*f)(va_list ptr);
 } escoge_t;
 /*Defined type structs end*/
 
 /*From here on below, the function prototypes*/
 
 int _printf(const char *format, ...);
-void print_char(va_list prt);
-void print_string(va_list ptr);
-void print_number(va_list ptr);
+int print_char(va_list prt);
+int print_string(va_list ptr);
+int print_number(va_list ptr);
 int print_int(int n);
 #endif
